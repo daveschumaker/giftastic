@@ -4,6 +4,7 @@
   "description": "Displays a random GIF every time the page is reloaded.",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
